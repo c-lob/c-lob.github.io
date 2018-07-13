@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    background-image: url("imgs/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Gaegu', cursive;
+}
+
+.col{
+    
+}
+
+.main{
+    margin-top: 33%;
+    color: antiquewhite;
+}
+
+.button{
+    margin-top: 60%;
+}
+
+.btn{
+    background-color: #FF9EC8;
+    border: none;
+    border-radius: 0%;
+}
+
+.btn:hover{
+    background-color: #89FF92;
+}
